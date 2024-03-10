@@ -135,6 +135,11 @@ div {
   margin-bottom: 100px;
 }
 
+#projects div img {
+  height: 430px;
+  width: 750px;
+}
+
 #contact img {
   height: 30px;
   margin-right: 20px;
