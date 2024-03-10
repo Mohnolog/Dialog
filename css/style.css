@@ -145,12 +145,6 @@ div {
   margin-right: 20px;
 }
 
-#contact div div {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-}
-
 }
 footer p {
   color: #c4c4c4;
